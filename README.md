@@ -55,7 +55,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app. What I struggled the most with was trying to find out how to get the API call to not include the banned attributes. I thought there was a way to include the banned words in the url to ignore, that was not the case. In the end what worked was using an if statement to check if any of the banned words where in the json fetched and, if so, call the function again. I could've done it so that it loops until it finds one but I wanted to only try five times and if doesn't get it raise an error. That way I could demonstrate that banning words works.
+Describe any challenges encountered while building the app. One of the biggest challenges I faced was figuring out how to prevent the banned attributes from appearing in the API response. Initially, I thought it would be possible to exclude the banned words directly in the API URL. However, I quickly realized that this wasn't the case. After some trial and error, I implemented a solution where I checked if any of the banned attributes appeared in the JSON data returned by the API. If a banned attribute was found, I would call the function again to fetch a new result. To avoid infinite loops, I limited the retries to five attempts and raised an error if no valid result was found after that. This approach allowed me to demonstrate that the banned attributes feature works, ensuring that no banned attributes are displayed.
 
 ## License
 
