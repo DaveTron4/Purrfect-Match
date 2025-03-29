@@ -4,7 +4,7 @@ Submitted by: **David Salas Carrascal**
 
 This web app: **Purrfect Match is a fun web app for cat lovers who want to find the perfect cat without any surprises. It lets you browse random cats and filter out specific traits you don't like, like breed, weight, or lifespan.When you come across a cat that has something you’d rather avoid, just click to ban that trait, and it won’t show up in future searches. Whether you’re looking for a specific breed or want to skip certain characteristics, Purrfect Match helps you find your ideal feline friend, all while keeping it fun and easy.No more scrolling through cats that don’t match your vibe—just the ones you want to see!**
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
