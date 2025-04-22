@@ -6,6 +6,8 @@ This web app: **Purrfect Match is a fun web app for cat lovers who want to find 
 
 Time spent: **6** hours spent in total
 
+Link to website: [Click Here](https://davetron4.github.io/Purrfect-Match/)
+
 ## Required Features
 
 The following **required** functionality is completed: 
